@@ -1,0 +1,21 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/Hci/VHotel.png",
+            "title": "VHotel",
+            "desc": "HTML CSS JS",
+            "url": "github.com"
+        },
+        {
+            "cover": "/portfolio/Compnet/NetDisPreview.png",
+            "title": "Cisco Network Design",
+            "desc": "Subnetting Cisco Packet Tracer",
+            "url": "github.com"
+        },{
+            "cover": "/portfolio/LMK/LMK.png",
+            "title": "LetMeCook",
+            "desc": "HTML Bootstrap JS",
+            "url": "github.com"
+        }
+    ]
+}
