@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portport/static/css/main.807b3cfd.css",
+    "main.js": "/portport/static/js/main.2b197afa.js",
+    "static/js/453.9c7d8f7b.chunk.js": "/portport/static/js/453.9c7d8f7b.chunk.js",
+    "static/media/Mock.pdf": "/portport/static/media/Mock.cfe4b542d940bbebcff7.pdf",
+    "static/media/Rivanno Grey.png": "/portport/static/media/Rivanno Grey.41b15636d15faf2f38e7.png",
+    "static/media/helvetica-neu.ttf": "/portport/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/RHR LOGO.png": "/portport/static/media/RHR LOGO.f02b6f35d5decd0f6f5f.png",
+    "static/media/LaBelleAurore.woff2": "/portport/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/portport/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portport/index.html",
+    "main.807b3cfd.css.map": "/portport/static/css/main.807b3cfd.css.map",
+    "main.2b197afa.js.map": "/portport/static/js/main.2b197afa.js.map",
+    "453.9c7d8f7b.chunk.js.map": "/portport/static/js/453.9c7d8f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807b3cfd.css",
+    "static/js/main.2b197afa.js"
+  ]
+}
