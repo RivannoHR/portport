@@ -6,7 +6,7 @@ import AnimateText from "../AnimateText";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCss3, faDocker, faGolang, faHtml5, faJsSquare, faReact } from "@fortawesome/free-brands-svg-icons";
 import Loader from 'react-loaders';
-import ats from "../../data/Mock.pdf"
+import ats from "../../data/CV - Rivanno Haidar Rozaan.pdf"
 
 const Home = () => {
     const [textClass, setTextClass] = useState('text-animate')
@@ -35,7 +35,7 @@ const Home = () => {
                 </h1>
                 <h2>Compsci student | Network specialization</h2>
                 <Link to="/contact" className="contactButton">CONTACT ME</Link>
-                <a href={ats} download="Resume"><div className="contactButton">RESUME</div></a>
+                <a href={ats} download="CV - Rivanno Haidar Rozaan"><div className="contactButton">RESUME</div></a>
             </div>
 
             <div className="stage-cube-cont">
